@@ -36,18 +36,19 @@ Designed, simulated, and prototyped a multi-stage active cascaded band-pass filt
 #### 📊 Engineering Workflow & Implementation
 * **Theoretical Design & Sourcing Constraints**: Calculated exact component frequencies on paper and successfully re-mapped mathematical resistor/capacitor networks to match standard commercial market values without disrupting tuning limits.
 * **SPICE Simulation Verification**: Modeled the dual LM324 operational amplifier topology within PSpice. Ran AC Sweep analyses to verify band-pass bandwidth characteristics and conducted transient analyses to validate time-domain wave symmetry.
-* **Hardware Prototyping & Bench Testing**: Constructed the physical active network on a breadboard using decoupled dual $\pm$12V DC power rails. 
+* **Hardware Prototyping & Bench Testing**: Constructed the physical active network on a breadboard using decoupled dual ±12V DC power rails. 
 * **Signal Validation**: Utilized an arbitrary function generator to inject test frequencies and analyzed output attenuation, phase alignment, and voltage gains using a hardware analog oscilloscope to confirm parity with simulation models.
 
 #### 📊 Simulation & Experimental Reference Sheets
 
 | PSpice Schematic Design | AC Sweep Frequency Response | Transient Analysis Waveforms |
 | :---: | :---: | :---: |
-| ![PSpice Schematic](./Cascaded%20Active%20Filter%20Design/Picture7.png) | ![AC Sweep Curve](./Cascaded%20Active%20Filter%20Design/Picture6.png) | ![Transient Plot](./Cascaded%20Active%20Filter%20Design/Picture7.png) |
+| ![PSpice Schematic](./Cascaded%20Active%20Filter%20Design/Picture5.png) | ![AC Sweep Curve](./Cascaded%20Active%20Filter%20Design/Picture6.png) | ![Transient Plot](./Cascaded%20Active%20Filter%20Design/Picture7.png) |
 
 | Physical Breadboard Layout | Hardware Bench Setup | Oscilloscope Analysis |
 | :---: | :---: | :---: |
 | ![Breadboard Top](./Cascaded%20Active%20Filter%20Design/Picture1.jpg) | ![Breadboard Side](./Cascaded%20Active%20Filter%20Design/Picture2.jpg) | ![Oscilloscope Reading](./Cascaded%20Active%20Filter%20Design/Picture3.jpg) |
+
 ---
 
 
