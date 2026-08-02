@@ -69,11 +69,12 @@ Engineered a complete, interactive desktop application and state machine engine 
 
 #### 🕹️ How to Download and Play the Game Instantly
 
-1. Scroll to the very top of this page and click on the main repository name **`Mechatronics-Portfolio`**.
-2. Click the bright green **`<> Code`** button located at the top right of the file workspace.
-3. Select **"Download ZIP"** from the drop-down menu that appears.
-4. Extract the downloaded **`.zip`** archive to your desktop.
-5. Open your IDE (Eclipse/IntelliJ) and import the extracted `src` folder alongside the 3 `.csv` data tables to run the game engine directly.
+* 📥 **[Click Here to Download the Game Folder Only (.zip)](./DoorDash-Game-Engine/DoorDash-Game-Engine.zip)**
+
+1. Click the link above to download the isolated game folder.
+2. Extract the downloaded **`.zip`** archive to your desktop.
+3. Open your Java IDE (Eclipse/IntelliJ) and import the extracted workspace to run the game engine directly.
+
 
 
 
