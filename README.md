@@ -48,10 +48,34 @@ Designed, simulated, and prototyped a multi-stage active cascaded band-pass filt
 | Physical Breadboard Layout | Hardware Bench Setup | Oscilloscope Analysis |
 | :---: | :---: | :---: |
 | ![Breadboard Top](./Cascaded-Active-Filter-Design/Picture1.jpg) | ![Breadboard Side](./Cascaded-Active-Filter-Design/Picture2.jpg) | ![Oscilloscope Reading](./Cascaded-Active-Filter-Design/Picture3.jpg) |
+---
+### 🎮 3. Enterprise MVC Game Engine & JavaFX GUI: DooR DasH
+Engineered a complete, interactive desktop application and state machine engine for a competitive, rule-heavy board game based on a 10x10 zigzag grid coordinate matrix. Developed the software architecture across a 3-stage modular lifecycle mapping custom backend calculations directly to a dynamic graphical interface.
 
+#### 📊 Software Architecture & Object Modeling
+* **Model-View-Controller (MVC) Pattern**: Structured the application layers cleanly to isolate backend data rules (Model) from presentation window scenes (View) and user trigger interceptors (Controller).
+* **Rigid OOP Package Hierarchy**: Organized modular code domains across 8 packages governing modular card actions, exception thresholds, dataset loaders, and logical interfaces.
+* **Polymorphic Action Core**: Implemented abstract entity models enabling runtime parameter switches, passive buffers (shields, freezes), and rule-based status transitions.
+* **Robust File Ingestion & Exception Safety**: Developed custom file data parsers utilizing system data buffers (`BufferedReader`) to ingest and parse configuration tables while building custom check layers to safely isolate out-of-turn execution errors.
+* **Dynamic JavaFX Interface**: Developed an interactive desktop presentation layer leveraging JavaFX UI nodes to update tracking variables, display event cards, and update board state matrices synchronously.
+
+#### 📂 Project Deliverables & Academic Specifications
+* 💻 **Source Packages**: [Explore Java MVC Workspaces](./DoorDash-Game-Engine/src/)
+* 📊 **Configuration Datasets**: [View Matrix Source CSV Tables](./DoorDash-Game-Engine/)
+* 📄 **Milestone 1 Specification**: [View System Architecture & Data Trees PDF](./DoorDash-Game-Engine/Milestone_1_Architecture.pdf)
+* 📄 **Milestone 2 Specification**: [View Game Rules & Rule State Engines PDF](./DoorDash-Game-Engine/Milestone_2_Engine_Logic.pdf)
+* 📄 **Milestone 3 Specification**: [View JavaFX GUI & MVC Layout Vectors PDF](./DoorDash-Game-Engine/Milestone_3_GUI_Design.pdf)
+
+#### 🕹️ How to Download and Play the Game Instantly
+
+* 📥 **[Click Here to Download the Entire Game Bundle (.zip)](https://github.com)**
+
+1. Extract the downloaded **`.zip`** folder to your desktop.
+2. Open the extracted folder and navigate into the `DoorDash-Game-Engine` directory.
+3. Ensure that **`DoorDash.jar`**, **`cards.csv`**, **`cells.csv`**, and **`monsters.csv`** are all sitting in that same folder together.
+4. Double-click **`DoorDash.jar`** to launch the dynamic JavaFX graphics screen and start playing!
 
 ---
-
 
 ## 🛠️ Core Tech Stack & Tools
 * **CAD/CAM/CNC**: SolidWorks, Fusion 360, CNC G-Code, Siemens SINUMERIK 840D sl
