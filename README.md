@@ -49,6 +49,7 @@ Designed, simulated, and prototyped a multi-stage active cascaded band-pass filt
 | :---: | :---: | :---: |
 | ![Breadboard Top](./Cascaded%20Active%20Filter%20Design/Picture1.jpg) | ![Breadboard Side](./Cascaded%20Active%20Filter%20Design/Picture2.jpg) | ![Oscilloscope Reading](./Cascaded%20Active%20Filter%20Design/Picture3.jpg) |
 
+
 ---
 
 
