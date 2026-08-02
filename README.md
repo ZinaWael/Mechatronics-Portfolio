@@ -6,12 +6,18 @@ Welcome! I am a 3rd year Mechatronics Engineering student at the German Universi
 
 ## 🚀 Featured Projects
 
-### 🛠️ 1. Custom 16-Bit Hardwired CPU Architecture Design
-Designed, modeled, and verified a custom 16-bit register-transfer-level (RTL) processor architecture from fundamental combinational and sequential digital logic components using Logisim.
-* **Datapath & Bus**: Configured synchronized data routes across core registers (PC, AR, DR, AC, IR, TR) via a centralized multiplexer-driven bus network.
-* **16-Bit ALU**: Integrated custom execution blocks for 16-bit binary arithmetic, multiplication, division (remainder), and bitwise logical operations controlled by a 3-bit operational MUX selector.
-* **Hardwired Control Unit**: Engineered a timing-critical decoder array using a Sequence Counter (SC) to translate instruction opcodes and clock timing cycles into physical control lines.
-* *[View Project Files & Diagrams](./CPU-Architecture/)* 👈 *(Note: You can create a subfolder for this later)*
+### 🛠️ 1. Custom 16-Bit Hardwired CPU Architecture Design (Mano-Machine Variant)
+Designed, modeled, and verified a custom 16-bit register-transfer-level (RTL) processor architecture using Logisim. The system features a customized ISA engineered to execute compiled iterative loop programs directly at the hardware gate level.
+
+#### 📊 Architectural Subsystem & Design Implementation
+* **Central Datapath & Bus Topology**: Configured synchronized data routing across core execution registers (**PC, AR, DR, AC, IR, TR**) linked through a 16-bit common bus architecture managed by a 3-bit selection multiplexer matrix ($S_2, S_1, S_0$).
+* **Custom ISA Opcodes (`XOR` & `DIV`)**: Re-engineered the control unit execution mapping by repurposing standard hardware opcodes to handle custom, low-level multi-bit XOR logic and a hardware-level division pipeline.
+* **Hardwired Control Unit Decoder**: Engineered a synchronous control matrix combining a Sequence Counter (SC), instruction decoders ($D_0 - D_{15}$), and precise timing cycles ($T_0 - T_7$). Implemented custom combinational logic expressions to automate the exact execution controls for every Register Load (`LD`), Increment (`INR`), Clear (`CLR`), and Memory Read/Write cycle.
+
+#### 📂 Project Deliverables & Academic Specifications
+* 💾 **Source File**: [Download raw circuit design (.circ)](./CPU-Architecture/cpu_design.circ)
+* 📄 **Milestone 1 Documentation**: [View RTL Micro-Operations & Bus Controls Portfolio PDF](./CPU-Architecture/Milestone_1_Design.pdf)
+* 📄 **Milestone 2 Documentation**: [View Core Instruction Timing & Control Expressions PDF](./CPU-Architecture/Milestone_2_Implementation.pdf)
 
 ---
 
