@@ -18,25 +18,17 @@ Designed, modeled, and verified a custom 16-bit register-transfer-level (RTL) pr
 * 💾 **Source File**: [Download raw circuit design (.circ)](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/CPU%20Design.circ)
 * 📄 **Milestone 1 Documentation**: [View RTL Micro-Operations & Bus Controls Portfolio PDF](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Milestone%201%20Description%20.pdf)
 * 📄 **Milestone 2 Documentation**: [View Core Instruction Timing & Control Expressions PDF](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Milestone%202%20Description.pdf)
+
 #### 📊 System Architecture Schematics
-<table>
-  <tr>
-    <td><b>1. Complete Processor Datapath</b></td>
-    <td><b>2. Custom 16-Bit ALU</b></td>
-  </tr>
-  <tr>
-    <td><img src="./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/Main%20.png" width="400"></td>
-    <td><img src="./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/ALU.png" width="400"></td>
-  </tr>
-  <tr>
-    <td><b>3. Hardwired Control Unit (Decode)</b></td>
-    <td><b>4. Sequential & Timing Logic</b></td>
-  </tr>
-  <tr>
-    <td><img src="./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/CU1.png" width="400"></td>
-    <td><img src="./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/CU3.png" width="400"></td>
-  </tr>
-</table>
+
+| 1. Complete Processor Datapath | 2. Custom 16-Bit ALU |
+| :---: | :---: |
+| ![Datapath](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/Main%20.png) | ![ALU](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/ALU.png) |
+
+| 3. Hardwired Control Unit (Decode) | 4. Sequential & Timing Logic |
+| :---: | :---: |
+| ![Control Unit](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/CU1.png) | ![Timing Logic](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Images/CU3.png) |
+
 ---
 
 ## 🛠️ Core Tech Stack & Tools
