@@ -68,7 +68,13 @@ Engineered a complete, interactive desktop application and state machine engine 
 * 📄 **Milestone 3 Specification**: [View JavaFX GUI & MVC Layout Vectors PDF](./DoorDash-Game-Engine/Game_and_milstones_description/Milestone%203%20Description.pdf)
 
 #### 🕹️ How to Download and Play the Game Instantly
-* 📥 **[Click Here to Download the Entire Game Bundle (.zip)](https://github.com)**
+
+1. Scroll to the very top of this page and click on the main repository name **`Mechatronics-Portfolio`**.
+2. Click the bright green **`<> Code`** button located at the top right of the file workspace.
+3. Select **"Download ZIP"** from the drop-down menu that appears.
+4. Extract the downloaded **`.zip`** archive to your desktop.
+5. Open your IDE (Eclipse/IntelliJ) and import the extracted `src` folder alongside the 3 `.csv` data tables to run the game engine directly.
+
 
 
 
