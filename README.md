@@ -24,5 +24,5 @@ Designed, modeled, and verified a custom 16-bit register-transfer-level (RTL) pr
 
 ## 📬 Connect With Me
 * **LinkedIn**: https://www.linkedin.com/in/zina-zaki-59a3203b1/
-* **Email**: [zwmzaki2006@gmail.com]
+* **Email**: zwmzaki2006@gmail.com
 
