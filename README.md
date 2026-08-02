@@ -1,6 +1,6 @@
 # Mechatronics Engineering Portfolio
 
-Welcome! I am a Mechatronics Engineering student at the German University in Cairo (GUC). This master repository serves as a centralized hub documentation for my academic work, personal projects, and engineering research across robotics, embedded systems, automation, and software engineering.
+Welcome! I am a 3rd year Mechatronics Engineering student at the German University in Cairo (GUC). This master repository serves as a centralized hub documentation for my academic work, personal projects, and engineering research across robotics, embedded systems, automation, and software engineering.
 
 ---
 
