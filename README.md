@@ -60,19 +60,16 @@ Engineered a complete, interactive desktop application and state machine engine 
 * **Dynamic JavaFX Interface**: Developed an interactive desktop presentation layer leveraging JavaFX UI nodes to update tracking variables, display event cards, and update board state matrices synchronously.
 
 #### 📂 Project Deliverables & Academic Specifications
-* 💻 **Source Packages**: [Explore Java MVC Workspaces](https://github.com)
-* 📊 **Configuration Datasets**: [View Matrix Source CSV Tables](https://github.com)
-* 📄 **Game Description Overview**: [View Core Game Specifications PDF](https://github.com)
-* 📄 **Milestone 1 Specification**: [View System Architecture & Data Trees PDF](https://github.com)
-* 📄 **Milestone 2 Specification**: [View Game Rules & Rule State Engines PDF](https://github.com)
-* 📄 **Milestone 3 Specification**: [View JavaFX GUI & MVC Layout Vectors PDF](https://github.com)
+* 💻 **Source Packages**: [Explore Java MVC Workspaces](./DoorDash-Game-Engine/src)
+* 📊 **Configuration Datasets**: [View Matrix Source CSV Tables](./DoorDash-Game-Engine)
+* 📄 **Game Description Overview**: [View Core Game Specifications PDF](./DoorDash-Game-Engine/Game_and_milstones_description/Game%20Description.pdf)
+* 📄 **Milestone 1 Specification**: [View System Architecture & Data Trees PDF](./DoorDash-Game-Engine/Game_and_milstones_description/Milestone%201%20Description.pdf)
+* 📄 **Milestone 2 Specification**: [View Game Rules & Rule State Engines PDF](./DoorDash-Game-Engine/Game_and_milstones_description/Milestone%202%20Description.pdf)
+* 📄 **Milestone 3 Specification**: [View JavaFX GUI & MVC Layout Vectors PDF](./DoorDash-Game-Engine/Game_and_milstones_description/Milestone%203%20Description.pdf)
 
 #### 🕹️ How to Download and Play the Game Instantly
 * 📥 **[Click Here to Download the Entire Game Bundle (.zip)](https://github.com)**
 
-1. Click the link above to download the entire project bundle.
-2. Extract the downloaded **`.zip`** folder to your desktop.
-3. Open your favorite Java IDE (like Eclipse or IntelliJ) and import the extracted `src` folder to run the game engine directly.
 
 
 ---
