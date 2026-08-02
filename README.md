@@ -43,11 +43,11 @@ Designed, simulated, and prototyped a multi-stage active cascaded band-pass filt
 
 | PSpice Schematic Design | AC Sweep Frequency Response | Transient Analysis Waveforms |
 | :---: | :---: | :---: |
-| ![PSpice Schematic](./Cascaded%20Active%20Filter%20Design/Picture5.png) | ![AC Sweep Curve](./Cascaded%20Active%20Filter%20Design/Picture6.png) | ![Transient Plot](./Cascaded%20Active%20Filter%20Design/Picture7.png) |
+| ![PSpice Schematic](./Cascaded-Active-Filter-Design/Picture5.png) | ![AC Sweep Curve](./Cascaded-Active-Filter-Design/Picture6.png) | ![Transient Plot](./Cascaded-Active-Filter-Design/Picture7.png) |
 
 | Physical Breadboard Layout | Hardware Bench Setup | Oscilloscope Analysis |
 | :---: | :---: | :---: |
-| ![Breadboard Top](./Cascaded%20Active%20Filter%20Design/Picture1.jpg) | ![Breadboard Side](./Cascaded%20Active%20Filter%20Design/Picture2.jpg) | ![Oscilloscope Reading](./Cascaded%20Active%20Filter%20Design/Picture3.jpg) |
+| ![Breadboard Top](./Cascaded-Active-Filter-Design/Picture1.jpg) | ![Breadboard Side](./Cascaded-Active-Filter-Design/Picture2.jpg) | ![Oscilloscope Reading](./Cascaded-Active-Filter-Design/Picture3.jpg) |
 
 
 ---
