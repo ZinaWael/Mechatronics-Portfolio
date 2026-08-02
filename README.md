@@ -14,11 +14,10 @@ Designed, modeled, and verified a custom 16-bit register-transfer-level (RTL) pr
 * **Custom ISA Opcodes (`XOR` & `DIV`)**: Re-engineered the control unit execution mapping by repurposing standard hardware opcodes to handle custom, low-level multi-bit XOR logic and a hardware-level division pipeline.
 * **Hardwired Control Unit Decoder**: Engineered a synchronous control matrix combining a Sequence Counter (SC), instruction decoders ($D_0 - D_{15}$), and precise timing cycles ($T_0 - T_7$). Implemented custom combinational logic expressions to automate the exact execution controls for every Register Load (`LD`), Increment (`INR`), Clear (`CLR`), and Memory Read/Write cycle.
 
-#### 📂 Project Deliverables & Academic Specifications
-* 💾 **Source File**: [Download raw circuit design (.circ)](Custom 16-Bit Hardwired CPU Architecture Design/CPU Design.circ)
-* 📄 **Milestone 1 Documentation**: [View RTL Micro-Operations & Bus Controls Portfolio PDF](./CPU-Architecture/Milestone_1_Design.pdf)
-* 📄 **Milestone 2 Documentation**: [View Core Instruction Timing & Control Expressions PDF](./CPU-Architecture/Milestone_2_Implementation.pdf)
-
+#### 📂 Project Deliverables
+* 💾 **Source File**: [Download raw circuit design (.circ)](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/CPU%20Design.circ)
+* 📄 **Milestone 1 Documentation**: [View RTL Micro-Operations & Bus Controls Portfolio PDF](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Milestone%201%20Description%20.pdf)
+* 📄 **Milestone 2 Documentation**: [View Core Instruction Timing & Control Expressions PDF](./Custom%2016-Bit%20Hardwired%20CPU%20Architecture%20Design/Milestone%202%20Description.pdf)
 ---
 
 ## 🛠️ Core Tech Stack & Tools
